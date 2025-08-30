@@ -1,5 +1,66 @@
-.header {
-display: flex;
-justify-content: space-between;
+.container {
+font-family: 'roboto';
 }
 
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h1 .h2 .h3 {
+    display:flex;
+    flex-direction: ;
+}
+
+.subheader{ background-color: #1f2937; }
+
+#bg {
+    background-color: #1f2937 
+}
+
+.title {
+    color: #f9faf8;
+    height: 24px;
+
+}
+
+.righth{
+    color: #e5e7eb;
+}
+
+
+.subheader {
+    display: flex;
+}
+
+
+h1 {
+    color: #f9faf8;
+    height: 48px;
+    font-weight: 900;
+}
+
+button {
+    background-color: #3882f6;
+
+}
+
+.main1 {
+   color: #1f2937;
+   font-weight: 900;
+}
+
+.submain  {
+    display:flex;
+    background-color: #e5e7eb;
+    font-style: italic;
+    color: #1f2937;
+    height: 38px;
+}
+
+.section{
+    display:flex;
+    flex-direction: column;
+}
